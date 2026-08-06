@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/hgfs/share-2/project_lvgl_myproject/build/cmake_install.cmake",
+		"/mnt/hgfs/share-2/project_lvgl_myproject/build/lvgl/cmake_install.cmake",
+		"/mnt/hgfs/share-2/project_lvgl_myproject/build/my_src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
