@@ -31,7 +31,7 @@
 
 - **编程语言**：C
 - **操作系统**：Linux（RK3568 平台）
-- **GUI 框架**：LVGL v8
+- **GUI 框架**：LVGL v9
 - **构建系统**：CMake
 - **音乐播放**：MPlayer
 - **显示驱动**：FrameBuffer（/dev/fb0）
