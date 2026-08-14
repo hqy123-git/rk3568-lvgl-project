@@ -16,7 +16,7 @@ lvgl-release-v9.0.zip //包含了LVGL图形界面控件源码、驱动接口源�
 lvgl_port_linux-release-v9.0.zip //适配有frame buffer的linux系统的接口
 ```
 
-注意：LVGL不同版本之间函数有较大区别，我们上课用的 LGVL9.0版本，大家搜索时一定要加上版本号
+注意：LVGL不同版本之间函数有较大区别
 
 # 2. 步骤
 
